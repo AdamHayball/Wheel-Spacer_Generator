@@ -4,6 +4,12 @@ Introducing version 2 of my customizable wheel spacer model generator, designed 
 
 The generator offers flexibility to adjust the thickness, diameter, bolt patterns, and the option to incorporate nuts and bolts for creating thicker adapters, ensuring compatibility with a wide range of vehicles. It is perfect for automotive designers, engineers, and hobbyists, providing a fast, cost-effective method for creating accurate prototypes to visualize wheel clearances and alignments.
 
+![Wheel Spacer Model Version 2](https://github.com/AdamHayball/Wheel-Spacer_Generator/blob/main/wsav2.jpg)
+*Above: A preview of the wheel spacer model generated using Version 2.*
+
+![Wheel Spacer Model Version 2 (Close-up)](https://github.com/AdamHayball/Wheel-Spacer_Generator/blob/main/wsav2.1.jpg)
+*Above: A close-up view of the wheel spacer model generated using Version 2.*
+
 ## Features
 
 - Customizable parameters for thickness, diameter, bolt patterns, and hub options.
